@@ -1,4 +1,4 @@
-# Filename: src/cmd/test/Makefile
+# Filename: src/cmd/smallest-rational/test/Makefile
 # Project: smallest-rational
 # Brief: Unit test command, 'smallest-rational'
 #

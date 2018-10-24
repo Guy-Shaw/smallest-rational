@@ -1,6 +1,6 @@
-# Filename: src/cmd/Makefile
+# Filename: src/cmd/smallest-rational/Makefile
 # Project: smallest-rational
-# Brief: xxx
+# Brief: "smallest" rational that approximates a given floating-point number
 #
 # Copyright (C) 2018 Guy Shaw
 # Written by Guy Shaw <gshaw@acm.org>
@@ -17,6 +17,9 @@
 #
 # You should have received a copy of the GNU Lesser General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#
+# Make only the command, 'smallest-rational'.
+# Libraries must have already been built.
 
 PROGRAM := smallest-rational
 SRCS = $(PROGRAM).c

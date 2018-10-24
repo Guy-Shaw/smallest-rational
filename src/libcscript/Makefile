@@ -2,7 +2,7 @@
 # Project: libcscript
 # Brief: Build a subset of the cscript library.
 #
-# Copyright (C) 2016 Guy Shaw
+# Copyright (C) 2016-2018 Guy Shaw
 # Written by Guy Shaw <gshaw@acm.org>
 #
 # This program is free software; you can redistribute it and/or modify

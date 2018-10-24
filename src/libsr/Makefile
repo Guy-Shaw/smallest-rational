@@ -1,6 +1,6 @@
 # Filename: src/libsr/Makefile
 # Project: libsr
-# Brief: Build a subset of the library, 'libsr'.
+# Brief: Build the library, 'libsr'.
 #
 # Copyright (C) 2018 Guy Shaw
 # Written by Guy Shaw <gshaw@acm.org>
@@ -17,6 +17,12 @@
 #
 # You should have received a copy of the GNU Lesser General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#
+# Description
+# -----------
+# The library, 'libsr', provides the definitions and functions needed
+# to support computation of the "smallest" rational number approximation
+# of a given floating-point number.
 
 LIBRARY := libsr
 SOURCES := $(wildcard *.c)
